@@ -4,14 +4,6 @@ A sleek and responsive landing page built with **React**, **Tailwind CSS**, and 
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of your landing page and save it as **preview.png** in the root folder.
-
-![Landing Page Preview](./preview.png)
-
----
-
 ## ✨ Features
 
 - 🎯 Fully Responsive Design
